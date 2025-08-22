@@ -1,4 +1,4 @@
-## Hello there 🐧
+## Hello there 🐻
 
 I'm a data engineer based in Europe.
 
